@@ -1,0 +1,299 @@
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.exe
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csprojAssemblyReference.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfoInputs.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfo.cs
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.RazorTargetAssemblyInfo.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CopyComplete
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.Manifest.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.xml
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Antlr4.Runtime.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.deps.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.dev.json
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.pdb
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.pdb
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.genruntimeconfig.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CoreCompileInputs.cache
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyectos VS 2019\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.pdb
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.exe
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.deps.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.dev.json
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.pdb
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Antlr4.Runtime.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.RazorTargetAssemblyInfo.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CopyComplete
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.Manifest.cache
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.xml
+C:\Users\Mauricio\source\repos\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.genruntimeconfig.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.exe
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.deps.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.runtimeconfig.dev.json
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\BancoBotF.pdb
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csprojAssemblyReference.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfoInputs.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.AssemblyInfo.cs
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.Manifest.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\staticwebassets\BancoBotF.StaticWebAssets.xml
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\scopedcss\bundle\BancoBotF.styles.css
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.RazorTargetAssemblyInfo.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.csproj.CopyComplete
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.pdb
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\obj\Debug\netcoreapp3.1\BancoBotF.genruntimeconfig.cache
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Proyectos Visual studio\BancoBotF\BancoBotF\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
